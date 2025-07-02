@@ -17,9 +17,7 @@ I also try to support Diabetes.uk and hence why I have them at the bottom of my 
 Hope the site helpful and please join me, I won't bit! :smile_cat:
 
 
-<a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip intro wiki help_video.jpg" title="xdrip wiki help intro"/>
-</a>
+
 
 <center>
 <a href="https://www.youtube.com/watch?v=AqQQblde6eU" target="_blank">
