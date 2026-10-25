@@ -48,7 +48,6 @@ I proudly support major diabetes organizations and include helpful links to rais
 ---
 
 
----
 <div align="center">
 ⚖️ Intellectual Property, Video Content & Attribution Policy
 
@@ -56,7 +55,7 @@ I proudly support major diabetes organizations and include helpful links to rais
 
 * **100% Free for T1D Community Care:** All video guides, setups, and design files are created strictly to keep T1D care free and accessible for personal diabetes management.
 * **Mandatory Attribution for Video & Technical Setups:** Any YouTube video, forum post, social media guide, or repository featuring, demonstrating, modifying, or redistributing these setups or video workflows MUST clearly credit and link directly back to:
-</div><br>
+</div>
 
 [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
 
