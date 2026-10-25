@@ -95,6 +95,8 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 <a href="https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1" target="_blank">The Diabetic Way YouTube Channel</a>
 
 
+<a href=" [https://github.com/](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)" target="_blank" title="First create a user account by going to">Click Here</a>
+
 <!---
 Atlas-Night-Out/Atlas-Night-Out is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
