@@ -46,14 +46,14 @@ Our strength remains in people helping people. Thank you to the independent deve
 
 ---
 
- 💙 Supporting the Community
 
-I proudly support major diabetes organizations and include helpful links to raise awareness:
-Diabetes UK** ([diabetes.org.uk](https://www.diabetes.org.uk/))
-Breakthrough T1D** ( formerly JDRF UK ) ([breakthrought1d.org.uk](https://breakthrought1d.org.uk/))
+## 💙 Advocating for Patient-Centered T1D Care & Hardware Access
 
+While groups like **Diabetes UK** ([diabetes.org.uk](https://www.diabetes.org.uk/)) and **Breakthrough T1D** ([breakthrought1d.org.uk](https://breakthrought1d.org.uk/)) raise awareness, the hard daily reality is that patients are constantly forced to fight just to keep access to the hardware they depend on. 
 
+We can build all the advanced open-source software, watch faces, and workflows we want, but **if essential hardware is restricted or taken away, the software becomes nothing.** Real, positive change in healthcare systems starts with putting patients first—listening to those living with T1D 24/7, ensuring vital tools aren't stripped away, and treating modern technology as a basic necessity for survival rather than a luxury. 
 
+Until standard healthcare bridges this gap, our strength remains in our community—building tools, fighting for hardware access, and keeping each other supported.
 
 
 
@@ -65,7 +65,7 @@ Breakthrough T1D** ( formerly JDRF UK ) ([breakthrought1d.org.uk](https://breakt
 
 ---
 
-⚖️ Intellectual Property, Video Content & Attribution Policy
+# ⚖️ Intellectual Property, Video Content & Attribution Policy
 ---
 All visual designs, video setups, step-by-step tutorials, watch face layouts (.wfs / .apk), custom graphic adaptations, and configuration workflows created by Dave (@Atlas-Night-Out / YouTube: The Diabetic Way) are copyrighted works.
 
