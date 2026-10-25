@@ -92,7 +92,7 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 [The Diabetic Way]([[PASTE_THE_FULL_URL_HERE](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1))
 
 
-https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1
+
 
 
 <!---
