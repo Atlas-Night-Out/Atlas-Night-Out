@@ -60,7 +60,7 @@ I proudly support major diabetes organizations and include helpful links to rais
 * **GitHub Repository:** [Atlas-Night-Out](https://github.com/Atlas-Night-Out)
 * **Strict Prohibition on Paywalls, Gatekeeping & Content Scraping:** Re-uploading video content, copying tutorial setups to redirect traffic to private groups, or locking these assets behind paywalls/commercial platforms (including Facer or paid services) without explicit permission and attribution is strictly prohibited.
 
-* **YouTube Channel:** <a href="https://www.youtube.com/@TheDiabeticWayUK" target="_blank">The Diabetic Way</a>
+* **YouTube Channel:** [The Diabetic Way](https://www.youtube.com/%40TheDiabeticWayUK)
 
 ---
 ## 📫 Connect & Reach Out
