@@ -39,23 +39,13 @@ Collaboration and knowledge-sharing significantly advance support for diabetics 
 
 ---
 
-## 💙 Supporting the Community
+ 💙 Supporting the Community
 
 I proudly support major diabetes organizations and include helpful links to raise awareness:
-* **Diabetes UK** ([diabetes.org.uk](https://www.diabetes.org.uk/))
-* **Breakthrough T1D** ( formerly JDRF UK ) ([breakthrought1d.org.uk](https://breakthrought1d.org.uk/))
+Diabetes UK** ([diabetes.org.uk](https://www.diabetes.org.uk/))
+Breakthrough T1D** ( formerly JDRF UK ) ([breakthrought1d.org.uk](https://breakthrought1d.org.uk/))
 
-## 📺 Official Video Guides & Setup Tutorials
 
-For the real, step-by-step walkthroughs and configuration workflows, watch the original guides on the official YouTube channel:
-* **YouTube Channel:** [The Diabetic Way](https://www.youtube.com/@TheDiabeticwayUK)
-* **Featured Walkthrough:** [Galaxy Watch 6/7 & Watch Face Setup Guide (July 2025)](https://youtu.be/O5T0JGKhL0Y)
-
-<div align="center">
-
-[![Galaxy Watch 6 or 7 with DMM Watch Faces](https://github.com/user-attachments/assets/648dbe17-76ca-4de9-8b86-26fab60dd309)](https://www.youtube.com/watch?v=O5T0JGKhL0Y)
-
-</div>
 
 
 
