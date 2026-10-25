@@ -17,7 +17,7 @@ We now leverage a powerful interconnected ecosystem, including:
 
 ---
 
-🌱 Current Tech Stack & Learning Journey
+#🌱 Current Tech Stack & Learning Journey
 
 I love exploring and combining software tools to build user-friendly documentation and web platforms. My current focus spans:
 * **Home Assistant & Automation Hubs**
