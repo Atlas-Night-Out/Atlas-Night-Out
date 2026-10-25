@@ -89,7 +89,7 @@ https://youtu.be/O5T0JGKhL0Y?si=AA03Ca_zuXwvWrss
 
 <center>
 <a href="https://youtu.be/O5T0JGKhL0Y?si=kifJ6k5jAEwVQvFI" target="_blank">
-  <img width="auto" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/648dbe17-76ca-4de9-b886-26fab60dd309" title="Galaxy Watch 6 or 7 with DMM Watch Faces - The Diabetic Way"/>
+  <img width="auto" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/9be9bd3b-26a3-4a4a-b66d-e729c97fa8d5" title="Galaxy Watch Setup - The Diabetic Way"/>
 </a>
 </center>
 
