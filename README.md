@@ -60,7 +60,7 @@ I proudly support major diabetes organizations and include helpful links to rais
 * **GitHub Repository:** [Atlas-Night-Out](https://github.com/Atlas-Night-Out)
 * **Strict Prohibition on Paywalls, Gatekeeping & Content Scraping:** Re-uploading video content, copying tutorial setups to redirect traffic to private groups, or locking these assets behind paywalls/commercial platforms (including Facer or paid services) without explicit permission and attribution is strictly prohibited.
 
-My favorite search engine is [Diabetes.uk](https://www.diabetes.org.uk/)
+
 ---
 ## 📫 Connect & Reach Out
 
@@ -89,7 +89,9 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
   <img width="auto" height="Auto" border="0" align="center" src="https://github.com/user-attachments/assets/648dbe17-76ca-4de9-8b86-26fab60dd309" title="Galaxy Watch 6 or 7 with DMM Watch Faces"/></a></center>
 
 
-
+<div align="center">
+[![The Diabetic Way](https://www.youtube.com/@TheDiabeticWayUK)]
+</div>
 
 
 
