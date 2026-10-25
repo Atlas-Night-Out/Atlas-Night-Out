@@ -90,7 +90,7 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 
 
 <div align="center">
-[![The Diabetic Way](https://www.youtube.com/@TheDiabeticWayUK)]
+[The Diabetic Way](https://www.youtube.com/@TheDiabeticWayUK)
 </div>
 
 
