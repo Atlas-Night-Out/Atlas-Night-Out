@@ -1,4 +1,4 @@
-markdown
+```markdown
 👋 Hi, I'm Dave (@Atlas-Night-Out)
 
 Welcome to **Atlas-Night-Out**! I am passionate about technology, accessibility, and making type 1 diabetes (T1D) management easier to understand and set up for everyone in the community. 
