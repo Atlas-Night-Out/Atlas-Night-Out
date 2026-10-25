@@ -28,14 +28,21 @@ I love exploring and combining software tools to build user-friendly documentati
 
 ---
 
-🕰️ Background & Community Mission
+# 🕰️ Background & Community Mission
 
 When I first joined the xDrip community back in 2017, documentation was scarce. By 2018, I began creating GitHub video tutorials to help others navigate the steep learning curve. Managing type 1 diabetes while tackling complex technology comes with unique challenges—including navigating my own health hurdles and dyslexia. 
 
 Because this is a personal hobby project, updates depend on my available time and energy. Nightscout and companion apps change rapidly, so while multiple server options exist, I primarily focus on the Heroku configurations I know best. 
 
-### Why Community Matters
-Collaboration and knowledge-sharing significantly advance support for diabetics globally. Rapid changes in technology require a collective effort to explore innovations in wearables, pump integrations, and data-sharing platforms. Thank you to all the developers, volunteers, and diabetics whose contributions make this ecosystem possible.
+---
+
+### 💡 Why Community Matters & The Cost of Open Source
+
+Everything I build, share, and troubleshoot here is done entirely for free—often late into the night, unpaid, and out of a genuine desire to help others navigate the heavy, daily burden of T1D management. 
+
+True progress relies on open collaboration, not private entities or copycats locking down community-built tools. But it is deeply disheartening—and frankly upsetting—to see others take these freely given resources, strip away any mention of credit, and pretend they built them. 
+
+Our strength remains in people helping people. Thank you to the independent developers, volunteers, and diabetics who respect the craft, honour attribution, and keep our community genuinely open, supportive, and free.
 
 ---
 
