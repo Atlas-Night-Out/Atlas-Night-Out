@@ -50,7 +50,7 @@ I proudly support major diabetes organizations and include helpful links to rais
 
 ---
 
-## ⚖️ Intellectual Property, Video Content & Attribution Policy
+⚖️ Intellectual Property, Video Content & Attribution Policy
 
 **All visual designs, video setups, step-by-step tutorials, watch face layouts (.wfs / .apk), custom graphic adaptations, and configuration workflows created by Dave (@Atlas-Night-Out / YouTube: The Diabetic Way) are copyrighted works.**
 
