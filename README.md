@@ -96,8 +96,7 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 
 
 
-<a href="https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f44c325b-d1d0-483a-813b-bc45813f846a" title="Alexa - Jade - Skills & Games"/></a>
+
 
 <!---
 Atlas-Night-Out/Atlas-Night-Out is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
