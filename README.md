@@ -107,10 +107,29 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 </div>
 
 
+<br />
+<hr />
+<br />
 
+<div align="center">
 
+## 📺 Official Video Guides & Setup Tutorials
 
+For step-by-step walkthroughs and configuration workflows, watch the original guides on **The Diabetic Way**:
+
+[![Galaxy Watch 6 or 7 with DMM Watch Faces](https://github.com/user-attachments/assets/648dbe17-76ca-4de9-8b86-26fab60dd309)](https://www.youtube.com/watch?v=O5T0JGKhL0Y)
+
+**[👉 Click Here to Watch the Galaxy Watch 6/7 Setup Guide](https://youtu.be/O5T0JGKhL0Y)**
+
+---
+
+**Official YouTube Channel:**  
 [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
+
+</div>
+
+
+
 
 
 
