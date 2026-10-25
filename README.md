@@ -89,9 +89,7 @@ Email: diabetes.uk@outlook.com
 Get Involved: Feel free to reach out via relevant community groups or drop me a message directly. Hope you find these resources helpful—come join the journey; I don't bite! 😸
 
 
-```markdown
 
-```
 ---
 
 ## 📺 Official Video Guides & Setup Tutorials
