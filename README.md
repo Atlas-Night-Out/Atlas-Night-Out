@@ -1,11 +1,11 @@
 ```markdown
-# 👋 Hi, I'm Dave (@Atlas-Night-Out)
+👋 Hi, I'm Dave (@Atlas-Night-Out)
 
 Welcome to **Atlas-Night-Out**! I am passionate about technology, accessibility, and making type 1 diabetes (T1D) management easier to understand and set up for everyone in the community. 
 
 ---
 
-## 🚀 About This Project & Modern T1D Ecosystem
+🚀 About This Project & Modern T1D Ecosystem
 
 As we navigate through 2026, type 1 diabetes technology has evolved significantly. This repository serves as a centralized hub for advanced, modern T1D workflows, bridging the gap between open-source automated insulin delivery (AID) and smart home automation. 
 
@@ -17,7 +17,7 @@ We now leverage a powerful interconnected ecosystem, including:
 
 ---
 
-## 🌱 Current Tech Stack & Learning Journey
+🌱 Current Tech Stack & Learning Journey
 
 I love exploring and combining software tools to build user-friendly documentation and web platforms. My current focus spans:
 * **Home Assistant & Automation Hubs**
@@ -28,7 +28,7 @@ I love exploring and combining software tools to build user-friendly documentati
 
 ---
 
-## 🕰️ Background & Community Mission
+🕰️ Background & Community Mission
 
 When I first joined the xDrip community back in 2017, documentation was scarce. By 2018, I began creating GitHub video tutorials to help others navigate the steep learning curve. Managing type 1 diabetes while tackling complex technology comes with unique challenges—including navigating my own health hurdles and dyslexia. 
 
@@ -45,7 +45,7 @@ I proudly support major diabetes organizations and include helpful links to rais
 * **Diabetes UK** ([diabetes.org.uk](https://www.diabetes.org.uk/))
 * **Breakthrough T1D** ( formerly JDRF UK ) ([breakthrought1d.org.uk](https://breakthrought1d.org.uk/))
 
----
+
 
 
 
@@ -64,7 +64,7 @@ Strict Prohibition on Paywalls, Gatekeeping & Content Scraping:** Re-uploading v
 
 
 ---
-## 📫 Connect & Reach Out
+📫 Connect & Reach Out
 
 * **Email:** diabetes.uk@outlook.com
 * **Get Involved:** Feel free to reach out via relevant community groups or drop me a message directly. Hope you find these resources helpful—come join the journey; I don't bite! 😸
