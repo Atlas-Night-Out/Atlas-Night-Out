@@ -48,14 +48,14 @@ I proudly support major diabetes organizations and include helpful links to rais
 ---
 
 
-<div align="center">
+
 ⚖️ Intellectual Property, Video Content & Attribution Policy
 
-**All visual designs, video setups, step-by-step tutorials, watch face layouts (.wfs / .apk), custom graphic adaptations, and configuration workflows created by Dave (@Atlas-Night-Out / YouTube: The Diabetic Way) are copyrighted works.**
+All visual designs, video setups, step-by-step tutorials, watch face layouts (.wfs / .apk), custom graphic adaptations, and configuration workflows created by Dave (@Atlas-Night-Out / YouTube: The Diabetic Way) are copyrighted works.**
 
-* **100% Free for T1D Community Care:** All video guides, setups, and design files are created strictly to keep T1D care free and accessible for personal diabetes management.
-* **Mandatory Attribution for Video & Technical Setups:** Any YouTube video, forum post, social media guide, or repository featuring, demonstrating, modifying, or redistributing these setups or video workflows MUST clearly credit and link directly back to:
-</div>
+100% Free for T1D Community Care:** All video guides, setups, and design files are created strictly to keep T1D care free and accessible for personal diabetes management.
+Mandatory Attribution for Video & Technical Setups:** Any YouTube video, forum post, social media guide, or repository featuring, demonstrating, modifying, or redistributing these setups or video workflows MUST clearly credit and link directly back to:
+
 
 [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
 
