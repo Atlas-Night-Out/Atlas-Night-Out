@@ -125,11 +125,10 @@ For step-by-step walkthroughs and configuration workflows, watch the original gu
 ## 🌐 Official Community & Support Hubs
 
 * 🌐 **Main Official Page:** [The Diabetic Way U.K](https://www.facebook.com/thediabeticway)
-* 🛡️ **Diabetic Masked Man:** [Join Group](https://www.facebook.com/groups/1291213948714988)
 * 🩸 **xDrip+ UK:** [Join Group](https://www.facebook.com/groups/xdripuk)
 * 🔄 **AndroidAPS Users UK:** [Join Group](https://www.facebook.com/groups/androidapsusersuk)
-* 📊 **Dexcom Users UK:** [Join Group](https://www.facebook.com/groups/dexcomoneplusg6g7g8usersuk)
-* 🤝 **The Diabetic Way Community:** [Join Group](https://www.facebook.com/groups/1399088137561908)
+* 📊 **Dexcom One+ G6 G7 G8 users U.K:** [Join Group](https://www.facebook.com/groups/dexcomoneplusg6g7g8usersuk)
+* 🤝 **Nightscout UK:** [Join Group](https://www.facebook.com/groups/1399088137561908)
 
 
 
