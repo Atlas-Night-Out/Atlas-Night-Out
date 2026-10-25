@@ -80,6 +80,11 @@ For the real, step-by-step walkthroughs and configuration workflows, watch the o
 * **YouTube Channel:** [The Diabetic Way](https://www.youtube.com/@TheDiabeticWay)
 * **Featured Walkthrough:** [Galaxy Watch 6/7 & Watch Face Setup Guide (July 2025)](https://youtu.be/O5T0JGKhL0Y)
 
+https://youtu.be/O5T0JGKhL0Y?si=AA03Ca_zuXwvWrss
+<center>
+<a [href="https://www.youtube.com/watch?v=AqQQblde6eU](https://youtu.be/O5T0JGKhL0Y?si=AA03Ca_zuXwvWrss)" target="_blank">
+  <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/648dbe17-76ca-4de9-8b86-26fab60dd309" title="Galaxy Watch 6 or 7 with DMM Watch Faces"/></a></center>
+
 
 <center>
 <a href="https://www.youtube.com/watch?v=AqQQblde6eU" target="_blank">
