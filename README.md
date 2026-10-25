@@ -88,7 +88,7 @@ https://youtu.be/O5T0JGKhL0Y?si=AA03Ca_zuXwvWrss
 
 
 <center>
-<a href="https://youtu.be/O5T0JGKhL0Y" target="_blank">
+<a href="https://youtu.be/O5T0JGKhL0Y?si=kifJ6k5jAEwVQvFI" target="_blank">
   <img width="auto" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/648dbe17-76ca-4de9-b886-26fab60dd309" title="Galaxy Watch 6 or 7 with DMM Watch Faces - The Diabetic Way"/>
 </a>
 </center>
