@@ -19,7 +19,8 @@ We now leverage a powerful interconnected ecosystem, including:
 
 # 🌱 Current Tech Stack & Learning Journey
 
-I love exploring and combining software tools to build user-friendly documentation and web platforms. My current focus spans:
+I love exploring and combining software tools to build user-friendly documentation, web platforms, and custom wearable designs. My current focus spans:
+* **Watch Face Development:** Designing and building custom wearable layouts (.wfs / .apk) for glanceable, real-time T1D data visibility.
 * **Home Assistant & Automation Hubs**
 * **Documentation & Markdown (MD / MDDOCS)**
 * **Android Studio & Mobile App Tooling**
@@ -29,10 +30,14 @@ I love exploring and combining software tools to build user-friendly documentati
 ---
 
 # 🕰️ Background & Community Mission
+ 
+When I first joined the xDrip community back in 2017, documentation was scarce. By 2018, I began creating GitHub video tutorials to help others navigate the steep learning curve. Over time, my work even helped teach the original xDrip developer himself—reorganising and streamlining setups that were a complete mess before, even if they eventually got things working. 
 
-When I first joined the xDrip community back in 2017, documentation was scarce. By 2018, I began creating GitHub video tutorials to help others navigate the steep learning curve. Managing type 1 diabetes while tackling complex technology comes with unique challenges—including navigating my own health hurdles and dyslexia. 
+What started as simple walkthroughs has since expanded into an endless suite of technical projects—from designing custom watch face layouts to developing a novel, first-of-its-kind T1D mobile application aimed at solving problems no other app has tackled yet.
 
-Because this is a personal hobby project, updates depend on my available time and energy. Nightscout and companion apps change rapidly, so while multiple server options exist, I primarily focus on the Heroku configurations I know best. 
+Managing type 1 diabetes while constantly learning new development tools comes with unique challenges—including navigating my own health hurdles and dyslexia. 
+
+Because this is a personal hobby project, updates depend on my available time and energy. Nightscout and companion apps change rapidly, so while multiple server options exist, I focus on building reliable open-source solutions, custom watch tools, and accessible configurations that genuinely help the community.
 
 ---
 
