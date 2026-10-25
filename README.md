@@ -5,7 +5,7 @@ Welcome to **Atlas-Night-Out**! I am passionate about technology, accessibility,
 
 ---
 
-🚀 About This Project & Modern T1D Ecosystem
+# 🚀 About This Project & Modern T1D Ecosystem
 
 As we navigate through 2026, type 1 diabetes technology has evolved significantly. This repository serves as a centralized hub for advanced, modern T1D workflows, bridging the gap between open-source automated insulin delivery (AID) and smart home automation. 
 
