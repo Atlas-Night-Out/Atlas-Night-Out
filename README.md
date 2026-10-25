@@ -97,7 +97,7 @@ Get Involved: Feel free to reach out via relevant community groups or drop me a 
 ## 📺 Official Video Guides & Setup Tutorials
 
 For the real, step-by-step walkthroughs and configuration workflows, watch the original guides on the official YouTube channel:
-* **YouTube Channel:** [The Diabetic Way](https://www.youtube.com/@TheDiabeticwayUK)
+* **YouTube Channel:** [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
 * **Featured Walkthrough:** [Galaxy Watch 6/7 & Watch Face Setup Guide (July 2025)](https://youtu.be/O5T0JGKhL0Y)
 
 <div align="center">
