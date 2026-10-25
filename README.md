@@ -47,10 +47,10 @@ I proudly support major diabetes organizations and include helpful links to rais
 
 
 
-
+---
 
 ⚖️ Intellectual Property, Video Content & Attribution Policy
-
+---
 All visual designs, video setups, step-by-step tutorials, watch face layouts (.wfs / .apk), custom graphic adaptations, and configuration workflows created by Dave (@Atlas-Night-Out / YouTube: The Diabetic Way) are copyrighted works.
 
 100% Free for T1D Community Care: All video guides, setups, and design files are created strictly to keep T1D care free and accessible for personal diabetes management.
@@ -59,16 +59,16 @@ Mandatory Attribution for Video & Technical Setups: Any YouTube video, forum pos
 
 [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
 
-GitHub Repository:** [Atlas-Night-Out](https://github.com/Atlas-Night-Out)
-Strict Prohibition on Paywalls, Gatekeeping & Content Scraping:** Re-uploading video content, copying tutorial setups to redirect traffic to private groups, or locking these assets behind paywalls/commercial platforms (including Facer or paid services) without explicit permission and attribution is strictly prohibited.
+GitHub Repository: [Atlas-Night-Out](https://github.com/Atlas-Night-Out)
+Strict Prohibition on Paywalls, Gatekeeping & Content Scraping: Re-uploading video content, copying tutorial setups to redirect traffic to private groups, or locking these assets behind paywalls/commercial platforms (including Facer or paid services) without explicit permission and attribution is strictly prohibited.
 
 [The Diabetic Way YouTube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1)
 
 ---
 📫 Connect & Reach Out
 
-* **Email:** diabetes.uk@outlook.com
-* **Get Involved:** Feel free to reach out via relevant community groups or drop me a message directly. Hope you find these resources helpful—come join the journey; I don't bite! 😸
+Email: diabetes.uk@outlook.com
+Get Involved: Feel free to reach out via relevant community groups or drop me a message directly. Hope you find these resources helpful—come join the journey; I don't bite! 😸
 
 ```
 
